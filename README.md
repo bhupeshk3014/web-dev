@@ -64,7 +64,7 @@ Wanna chat about web dev, projects, or just geek out over tech? Hit me up! 👇
 
 If you found these notes helpful, consider **starring the repository** on GitHub:  
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/bhupeshk3014)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Repo-black?style=for-the-badge&logo=github)](https://github.com/bhupeshk3014/web-dev)  
 
 Every star ⭐ helps and motivates me to create more **valuable content for developers like you**.  
 
