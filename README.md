@@ -20,6 +20,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 |  6  | Git & GitHub Guide         | [Read Notes](https://dev.to/_bhupeshk_/git-and-github-guide-4gac)                               |
 |  7  | Spotify Clone Guide        | [Read Notes](https://dev.to/_bhupeshk_/spotify-clone-html-css-guide-1e9)                        |
 |  8  | JavaScript Guide           | [Read Notes](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)                     |
+|  9  | Build a To-Do App in JS    | [Read Notes](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd) |
 
 ---
 
@@ -33,6 +34,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 ⚡ **Supercharge Your Web Dev Skills**  
 🔹 **Bootstrap** → Build responsive, mobile-first websites in no time 📱  
 🔹 **JavaScript** → Add interactivity and dynamic features to your pages ⚡  
+🔹 **DOM Manipulation** → Control and update webpage content dynamically! 🛠️  
 
 📌 **Version Control & Collaboration**  
 🔹 **Git & GitHub** → Track changes, collaborate with others, and contribute to open source 💻  
@@ -44,6 +46,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 ✅ **Beginner-friendly**: Simple explanations, no unnecessary jargon!  
 ✅ **Hands-on Learning**: Real-world examples & projects 🚀  
 ✅ **Step-by-Step Notes**: Everything documented, so you never feel lost!  
+✅ **Practical Projects**: Apply what you learn with actual web apps!  
 
 ---
 
