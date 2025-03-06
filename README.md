@@ -19,8 +19,9 @@ Here’s a curated list of my **web development guides**, structured to help you
 |  5  | Bootstrap Guide            | [Read Notes](https://dev.to/_bhupeshk_/web-dev-day-5-bootstrap-guide-359p)                      |
 |  6  | Git & GitHub Guide         | [Read Notes](https://dev.to/_bhupeshk_/git-and-github-guide-4gac)                               |
 |  7  | Spotify Clone Guide        | [Read Notes](https://dev.to/_bhupeshk_/spotify-clone-html-css-guide-1e9)                        |
-|  8  | JavaScript Guide           | [Read Notes](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)                     |
-|  9  | Build a To-Do App in JS    | [Read Notes](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd) |
+|  8  | JavaScript Guide Part 1    | [Read Notes](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)                     |
+|  9  | JavaScript Guide Part 2    | [Read Notes](https://dev.to/_bhupeshk_/web-dev-day-7-javascript-guide-part-2-2neg)              |
+| 10  | Build a To-Do App in JS    | [Read Notes](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd) |
 
 ---
 
