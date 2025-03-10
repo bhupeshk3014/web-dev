@@ -47,7 +47,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 ✅ **Beginner-friendly**: Simple explanations, no unnecessary jargon!  
 ✅ **Hands-on Learning**: Real-world examples & projects 🚀  
 ✅ **Step-by-Step Notes**: Everything documented, so you never feel lost!  
-✅ **Practical Projects**: Apply what you learn with actual web apps!  
+✅ **Practical Projects**: Apply what you learn with actual web apps!!  
 
 ---
 
