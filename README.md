@@ -22,6 +22,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 |  8  | JavaScript Guide Part 1    | [Read Notes](https://dev.to/_bhupeshk_/web-dev-day-5-javascript-guide-4ngf)                     |
 |  9  | JavaScript Guide Part 2    | [Read Notes](https://dev.to/_bhupeshk_/web-dev-day-7-javascript-guide-part-2-2neg)              |
 | 10  | Build a To-Do App in JS    | [Read Notes](https://dev.to/_bhupeshk_/build-a-simple-to-do-app-with-javascript-a-step-by-step-guide-kkd) |
+| 11  | Backend - NodeJS, Express, EJS, REST (Part 1)    | [Read Notes](https://dev.to/_bhupeshk_/backend-nodejs-express-ejs-rest-part-1-53o0) |
 
 ---
 
@@ -36,6 +37,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 🔹 **Bootstrap** → Build responsive, mobile-first websites in no time 📱  
 🔹 **JavaScript** → Add interactivity and dynamic features to your pages ⚡  
 🔹 **DOM Manipulation** → Control and update webpage content dynamically! 🛠️  
+🔹 **Node.js & Express** → Backend development with RESTful APIs 
 
 📌 **Version Control & Collaboration**  
 🔹 **Git & GitHub** → Track changes, collaborate with others, and contribute to open source 💻  
