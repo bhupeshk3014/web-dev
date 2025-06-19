@@ -1,6 +1,6 @@
 # 🌍 Web Development Journey 🚀  
 
-Hey there! 👋 Welcome to my **Web Development journey**, where I document everything I learn about building the web. From **HTML & CSS basics** to **JavaScript magic**, **Git mastery**, and **SQL essentials**, this space is packed with knowledge!  
+Hey there! 👋 Welcome to my **Web Development journey**, where I document everything I learn about building the web. From **HTML & CSS basics** to **JavaScript magic**, **Git mastery**, **SQL essentials**, and **NoSQL with MongoDB**, this space is packed with knowledge!  
 
 Whether you're a beginner starting out or an experienced coder looking for a refresher, you’ll find **easy-to-follow notes, hands-on guides, and real-world projects** to level up your skills! 💡✨  
 
@@ -25,7 +25,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 | 11  | SimonSays JS Game    | [Read Notes](https://dev.to/_bhupeshk_/simonsays-js-a-fun-memory-game-built-with-javascript-1e56) |
 | 12  | Backend - NodeJS, Express, EJS, REST (Part 1)    | [Read Notes](https://dev.to/_bhupeshk_/backend-nodejs-express-ejs-rest-part-1-53o0) |
 | 13  | SQL for Everyone: The Ultimate Starter Guide | [Read Notes](https://dev.to/_bhupeshk_/sql-for-everyone-the-ultimate-starter-guide-1h3d) |
-
+| 14 | MongoDB Made Easy: A Beginner’s Guide to NoSQL      | [Read Notes](https://dev.to/_bhupeshk_/mongodb-made-easy-a-beginners-guide-to-nosql-1la9) 
 
 ---
 
@@ -41,7 +41,10 @@ Here’s a curated list of my **web development guides**, structured to help you
 🔹 **JavaScript** → Add interactivity and dynamic features to your pages ⚡  
 🔹 **DOM Manipulation** → Control and update webpage content dynamically! 🛠️  
 🔹 **Node.js & Express** → Backend development with RESTful APIs 🌐
-🔹 **SQL** → Store, manage, and retrieve data using powerful queries 🧠💾
+
+🧠 **Data & Databases**  
+🔹 **SQL** → Store, manage, and retrieve data using powerful queries 💾  
+🔹 **MongoDB (NoSQL)** → Flexible document-based database for modern apps 🗃️ 
 
 📌 **Version Control & Collaboration**  
 🔹 **Git & GitHub** → Track changes, collaborate with others, and contribute to open source 💻  
@@ -54,7 +57,7 @@ Here’s a curated list of my **web development guides**, structured to help you
 ✅ **Hands-on Learning**: Real-world examples & projects 🚀  
 ✅ **Step-by-Step Notes**: Everything documented, so you never feel lost!  
 ✅ **Practical Projects**: Apply what you learn with actual web apps!!  
-✅ **Database Foundation**: Learn how to manage data using SQL—the language behind every major backend.
+✅ **Database Foundation**: Learn SQL and NoSQL to manage and scale your data like a pro.
 
 ---
 
